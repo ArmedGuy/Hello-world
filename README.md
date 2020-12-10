@@ -1,4 +1,4 @@
 # Hello-world
 Learning GitHub
 
-fuck of
+fack of
